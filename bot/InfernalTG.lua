@@ -229,6 +229,7 @@ function create_config( )
     "stats",
     "Version",
     "close_group",
+    "toto",
     "kickall",
     "boobs",
     "Maseage",
