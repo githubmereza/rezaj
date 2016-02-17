@@ -230,11 +230,12 @@ function create_config( )
     "Version",
     "close_group",
     "kickall",
+    "boobs",
     "Maseage",
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {170774776,194222290,111041070},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v2 - Open Source
@@ -317,7 +318,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for tele85 :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -352,10 +353,6 @@ tools for InfernalTG :
 >#30.SendPm
 >#31.tagall
 >#32.share
-help all plugin soon :D ,"
-You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
 
 ]]
   }
